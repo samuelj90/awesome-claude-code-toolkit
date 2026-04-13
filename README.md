@@ -480,7 +480,8 @@ One hundred thirty-five specialized agents organized into ten categories. Each a
 
 Reference an agent in your `CLAUDE.md`:
 
-```markdown
+```markdown| [qa-orchestra](https://github.com/Anasss/qa-orchestra) | | Multi-agent QA toolkit with 10 specialized agents — orchestrator, environment-manager, functional-reviewer, test-scenario-designer, browser-validator, automation-writer, manual-validator, bug-reporter, release-analyzer, smart-test-selector. Stack-agnostic, output-chained, live validation via Chrome MCP |
+
 ## Agents
 - Use `agents/core-development/fullstack-engineer.md` for feature development
 - Use `agents/quality-assurance/code-reviewer.md` for PR reviews
