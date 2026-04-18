@@ -976,6 +976,7 @@ claude-code-toolkit/               850+ files
 | [amux](https://github.com/mixpeek/amux) | new | Open-source agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file |
 | [cc-token-status](https://github.com/echowonderfulworld/cc-token-status) | new | macOS menu bar dashboard for Claude Code. Shows plan usage limits, costs, tokens, trends, model breakdown, and multi-machine sync via iCloud. Single Python file, auto-updates |
 | [Watchfire](https://github.com/watchfire-io/watchfire) | 33 | Orchestration platform for AI coding agents (starting with Claude Code). Manages project context, breaks work into tasks, runs agents with full codebase awareness. Git worktree isolation, sandboxed execution, multiple agent modes (chat, task, autonomous). Go daemon + CLI/TUI + Electron GUI |
+| [aby-claude-watcher](https://github.com/aby-agency/aby-claude-watcher) | new | Real-time macOS dashboard for Claude Code sessions. Five color-coded states (thinking, running, waiting, error, completed), per-session notifications, one-click focus terminal across iTerm2/Terminal/Warp/VSCode/Cursor/Ghostty/kitty/WezTerm/Hyper. Bilingual FR/EN, menu-bar tray, MIT licensed. Apple Silicon + Intel builds |
 
 ---
 
