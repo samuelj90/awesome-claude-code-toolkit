@@ -14,9 +14,11 @@ Seven markdown files (~400 lines) that give an agent:
 ## Quick start
 
 1. Click **Use this template** on GitHub
-2. Replace `{{PLACEHOLDER}}` values in IDENTITY.md and USER.md
-3. Run `claude --dangerously-skip-permissions`
+2. Replace `{{PLACEHOLDER}}` values in IDENTITY.md and USER.md. Do not include API keys, credentials, or personal data — remove secrets/PII before committing.
+3. Run `claude`
 4. First message: "Read the boot sequence in AGENTS.md and tell me the current state."
+
+> **Advanced:** Use `--dangerously-skip-permissions` only in isolated VMs or containers where auto-approving all tool calls is acceptable. Not recommended for general use.
 
 ## Links
 
