@@ -625,7 +625,6 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [Google Drive – Memyard](https://github.com/zagmoai/public-google-drive) | `git clone https://github.com/zagmoai/public-google-drive ~/.claude/skills/public-google-drive` | Create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links. No API keys or OAuth required |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | `git clone` | Interact with iOS Simulator for mobile testing and screenshot capture |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | `git clone` | Browser automation skill for end-to-end testing and web interaction |
-| [chrome-relay](https://chrome-relay.kushalsm.com/) | `npx skills add chrome-relay` | Drive your already-open Chrome session — cookies, SSO, extensions, localhost — from a local CLI bridge. Real-Chrome counterpart to Playwright skill: no fresh Chromium, no MCP server, no remote relay. Pairs with the [Chrome Web Store extension](https://chromewebstore.google.com/detail/chrome-relay/cpdiapbifblhlcpnmlmfpgfjlacebokb) |
 | [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | `git clone` | Sigma-rule-based threat detection and security log analysis |
 | [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) | `git clone` | Web vulnerability fuzzing and security testing via FFUF |
 | [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | `git clone` | Convert markdown files into EPUB ebooks |
@@ -660,6 +659,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [StyleSeed](https://github.com/bitjaru/styleseed) | `skills/styleseed/` | Design judgment: 69 visual rules, brand skins, professional UI |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | `git clone https://github.com/swarmclawai/swarmclaw && cp -r swarmclaw/skills/swarmclaw.md ~/.claude/skills/swarmclaw.md` | Self-hosted runtime for autonomous AI agents. Multi-provider, MCP-native, with memory, runtime skills, delegation, schedules, and reviewed conversation-to-skill learning across OpenClaw gateways and other providers |
 | [SwarmVault](https://github.com/swarmclawai/swarmvault) | `/plugin marketplace add swarmclawai/swarmvault && /plugin install swarmvault@swarmvault` | Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. Bundled MCP server (`npx -y @swarmvaultai/cli mcp`) exposes page search, page reads, source listing, query, ingest, compile, and lint tools |
+| [chrome-relay](https://chrome-relay.kushalsm.com/) | `npx skills add chrome-relay` | Drive your already-open Chrome session — cookies, SSO, extensions, localhost — from a local CLI bridge. Real-Chrome counterpart to Playwright skill: no fresh Chromium, no MCP server, no remote relay. Pairs with the [Chrome Web Store extension](https://chromewebstore.google.com/detail/chrome-relay/cpdiapbifblhlcpnmlmfpgfjlacebokb) |
 
 ### Installing Skills
 
