@@ -52,7 +52,7 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 
 - [Plugins](#plugins) (176+)
 - [Agents](#agents) (135)
-- [Skills](#skills) (35 curated + 28 community)
+- [Skills](#skills) (35 curated + 29 community)
 - [Commands](#commands) (42)
 - [Hooks](#hooks) (20 scripts)
 - [Rules](#rules) (15)
@@ -568,6 +568,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 
 | Skill | Install | What It Teaches |
 |-------|---------|------------------|
+| [agentkit-seo](https://github.com/agentkit-seo/agentkit-seo) | `npx agentkit-seo install --provider claude-code` | AI agent skill for auditing and optimizing GitHub profiles and repositories. Covers bio, pinned repos, README structure, topics, Copilot instructions, and language stats. |
 | [deep-dive](https://github.com/kimsb2429/deep-dive-skill) | `git clone https://github.com/kimsb2429/deep-dive-skill && cp -r deep-dive-skill/deep-dive ~/.claude/skills/` | DAG-based deep research — breaks questions into a dependency graph, runs parallel subagents, identifies gaps, writes a sourced report. Single markdown file, no external APIs or MCP servers. |
 | [Reepl - LinkedIn Content Creation](https://github.com/reepl-io/skills) | `npx skillkit@latest install reepl-io/skills` | 18 tools for LinkedIn content management: drafts, publishing, scheduling, voice profiles, contacts, collections, templates, and AI image generation |
 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | `git clone https://github.com/conorbronsdon/avoid-ai-writing ~/.claude/skills/avoid-ai-writing` | AI writing pattern detection and rewriting (21 categories, 43 replacements) |
