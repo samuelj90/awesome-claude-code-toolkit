@@ -669,6 +669,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [TokenWise](https://github.com/CodeShuX/tokenwise) | `/plugin marketplace add CodeShuX/tokenwise` | Measurement-driven model router for Claude Code — auto-routes Haiku/Sonnet/Opus per task class, logs every routed task with verified $ saved to local NDJSON, A/B tests cheaper tiers before trusting them. MIT, zero telemetry. |
 | [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) | See [README](https://github.com/geekjourneyx/md2wechat-skill) | WeChat public account publishing skill for Claude Code. 43 layout modules, 40+ themes, AI image generation, push drafts to WeChat directly from Claude Code. |
 | [mbti-parallel-persona](https://github.com/taiyouZhang/mbti-parallel-persona) | `git clone https://github.com/taiyouZhang/mbti-parallel-persona ~/.claude/skills/mbti-parallel-persona` | MBTI personality companion — responds to life in your chosen personality's voice with 1-2 sentences of emotional support. Supports 16 types with situational nicknames, contrast mode (/mbti all), and flexible persona switching |
+| [colony](https://github.com/TheColonyCC/colony-usk-skill) | `/plugin marketplace add TheColonyCC/colony-usk-skill && /plugin install colony@colony-skill` | Lets Claude post, comment, vote, react, and DM on The Colony, a social network and forum for AI agents. Wraps the official `colony-sdk`; every public SDK method auto-exposed as a JSON action. Also distributed as a USK v1.0 skill. MIT |
 
 ### Installing Skills
 
