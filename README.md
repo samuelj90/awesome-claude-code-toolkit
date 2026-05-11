@@ -1121,6 +1121,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [claudex-setup](https://github.com/DnaFin/claudex) | new | Audit and optimize any project for Claude Code — scores 0-100, auto-fixes configuration across 972 verified techniques. Zero deps. `npx claudex-setup` |
 | [Agent Sessions](https://github.com/jazzyalex/agent-sessions) | 495+ | Native macOS app to search, browse, and resume Claude Code, Codex, Gemini CLI, OpenCode, and other local agent sessions, with Agent Cockpit live iTerm2 orchestration |
 | [Claude Code Skills 中文精选集](https://claude-skills.bt199.com/) | -- | Chinese curated directory of 140+ Claude Code Skills, Agents, Plugins, and workflows for Chinese-speaking Claude Code users |
+| [nylas/cli](https://github.com/nylas/cli) | new | Email, calendar, and contacts CLI for Claude Code. Built-in MCP server with 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP. One-line install: `nylas mcp install`. Works with Claude Code, Cursor, Codex, and Windsurf. Docs: https://cli.nylas.com |
 
 ---
 
